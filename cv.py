@@ -16,7 +16,7 @@ st.info ("Je suis  technicienne supérieure en géomatique ,motivée et sérieus
     
 st.header ("Formations")
 
-st.write ("* BFEM : obtenu en 2021
+st.write ("* BFEM : obtenu en 2021")
               
 st.write("* Baccalauréat: obtenu en 2024")
 
