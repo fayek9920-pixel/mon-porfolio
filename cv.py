@@ -16,7 +16,7 @@ st.info ("Je suis  technicienne supérieure en géomatique ,motivée et sérieus
     
 st.header ("Formations")
 
-st.write ("* BFEM (Brevet de Fin d'études Moyennes)_ obtenu en 2021
+st.write ("* BFEM : obtenu en 2021
               
 st.write("* Baccalauréat: obtenu en 2024")
 
@@ -32,7 +32,7 @@ st.write ("* Topographie et levés terrain")
              
 st.write ("* Numérisation et géoréférencement")
 
-st.write ("* Maitrise des logiciels de bureautiques (Word ,Excel ,PowerPoint )   
+st.write ("* Maitrise des logiciels de bureautiques (word ,excel ,powerpoint )   
 
 st.write ("* Bases en programmation python ")
 
