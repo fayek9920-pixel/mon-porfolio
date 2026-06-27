@@ -32,7 +32,7 @@ st.write ("* Topographie et levés terrain")
              
 st.write ("* Numérisation et géoréférencement")
 
-st.write ("* Maitrise des logiciels de bureautiques (word ,excel ,powerpoint )   
+st.write ("* Maîtrise des logiciels de bureautiques (word ,excel ,powerpoint )   ")
 
 st.write ("* Bases en programmation python ")
 
